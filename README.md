@@ -1,1 +1,1 @@
-# An In-Campus Scooter Rental System
+# SKRRT - An In-Campus Scooter Rental System
